@@ -1,6 +1,6 @@
 name: Deploy Scorpio App
 env:
-  DEFAULT_LOCATION: ukwest
+  DEFAULT_LOCATION: northeurope
   SCORPIO_ALIAS: ah2345scorpio
 #on:
 #  push:
