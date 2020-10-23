@@ -1,6 +1,6 @@
 #!/bin/bash
 
-export DEFAULT_LOCATION=ukwest
+export DEFAULT_LOCATION=northeurope
 export SIRMIONE_ALIAS=ah2345sirmione
 export LIMONE_ALIAS=ah2345limone
 export SCORPIO_ALIAS=ah2345scorpio
